@@ -1,0 +1,12 @@
+nav {
+  width: 100vw;
+}
+.container {
+  height: 90px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2rem;
+}
